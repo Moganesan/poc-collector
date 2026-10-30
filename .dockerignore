@@ -1,0 +1,6 @@
+node_modules
+data
+*.txt
+*.log
+.DS_Store
+README.md
